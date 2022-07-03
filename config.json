@@ -9,7 +9,7 @@
   "dt_remote": "github",
   "dt_path": "dt/letv/mstar_648",
   "device_code": "mstar_648",
-  "use_omin_head": true,
+  "use_omin_head": false,
   "use_repair_manifest": false,
   "fix_product": false,
   "fix_misscom": false,
