@@ -1,6 +1,6 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-4.4",
+  "twrp_branch": "twrp-4.4-deprecated",
   "git_username": "linze0506",
   "git_email": "72016103+linze0506@users.noreply.github.com",
   "use_own_dt": true,
